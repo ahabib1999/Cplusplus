@@ -1,0 +1,3 @@
+﻿  StockData.cpp
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\StockData\StockData\StockData.cpp(132,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  StockData.vcxproj -> C:\Users\akbar\OneDrive\Desktop\C++ Programs\StockData\Debug\StockData.exe

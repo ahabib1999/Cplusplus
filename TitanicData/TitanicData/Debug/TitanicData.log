@@ -1,0 +1,4 @@
+﻿  TitanicData.cpp
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\TitanicData\TitanicData\TitanicData.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\TitanicData\TitanicData\TitanicData.cpp(169,23): warning C4018: '<': signed/unsigned mismatch
+  TitanicData.vcxproj -> C:\Users\akbar\OneDrive\Desktop\C++ Programs\TitanicData\Debug\TitanicData.exe

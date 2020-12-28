@@ -1,0 +1,12 @@
+Welcome to the titanic data program
+
+A) Display count of people who lived and died
+B) Display count of people who lived by Passenger Class
+
+Please select option (A-B)... 
+
+Number of passengers who lived: 712
+Number of people who died: 1496
+Percentage of people who lived: 0.3225
+Percentage of people who died: 0.6775
+Thanks for using the program!

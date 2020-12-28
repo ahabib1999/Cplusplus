@@ -1,0 +1,18 @@
+Welcome to the titanic data program
+
+A) Display count of people who lived and died
+B) Display count of people who lived by Passenger Class
+
+Please select option (A-B)... 
+
+Number of people who lived by class
+
+                         Class                        Number
+                      1stClass                           201
+                      2ndClass                           119
+                      3rdClass                           180
+                      AlaCarte                             3
+                          Deck                            43
+                        Engine                            72
+                   Victualling                            94
+Thanks for using the program!

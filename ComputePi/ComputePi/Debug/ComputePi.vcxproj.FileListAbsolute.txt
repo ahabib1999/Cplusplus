@@ -1,0 +1,2 @@
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\ComputePi\ComputePi\Debug\ComputePi.exe
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\ComputePi\ComputePi\Debug\ComputePi.pdb
