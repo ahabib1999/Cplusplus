@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\Stack2\Stack2\stack.h(283,1): warning C4305: 'return': truncation from 'int' to 'T'
+          with
+          [
+              T=bool
+          ]
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\Stack2\Stack2\stack.h(279): message : while compiling class template member function 'T Stack<T>::Top(void)'
+          with
+          [
+              T=bool
+          ]
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\Stack2\Stack2\main.cpp(19): message : see reference to function template instantiation 'T Stack<T>::Top(void)' being compiled
+          with
+          [
+              T=bool
+          ]
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\Stack2\Stack2\main.cpp(13): message : see reference to class template instantiation 'Stack<bool>' being compiled
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\Stack2\Stack2\stack.h(58): warning C4715: 'operator<<': not all control paths return a value
+  Stack2.vcxproj -> C:\Users\akbar\OneDrive\Desktop\C++ Programs\Stack2\Debug\Stack2.exe

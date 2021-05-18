@@ -1,0 +1,5 @@
+﻿  LotteryNumbersGenerator.cpp
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\LotteryNumbersGenerator\LotteryNumbersGenerator\LotteryNumbersGenerator.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\LotteryNumbersGenerator\LotteryNumbersGenerator\LotteryNumbersGenerator.cpp(95,19): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\LotteryNumbersGenerator\LotteryNumbersGenerator\LotteryNumbersGenerator.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+  LotteryNumbersGenerator.vcxproj -> C:\Users\akbar\OneDrive\Desktop\C++ Programs\LotteryNumbersGenerator\Debug\LotteryNumbersGenerator.exe

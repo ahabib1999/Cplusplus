@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\SimpleVector\SimpleVector.h(174,16): warning C4101: 'index': unreferenced local variable
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\SimpleVector\SimpleVector.h(169): message : while compiling class template member function 'T SimpleVector<T>::getElementAt(int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\SimpleVector\Main.cpp(24): message : see reference to function template instantiation 'T SimpleVector<T>::getElementAt(int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\SimpleVector\Main.cpp(10): message : see reference to class template instantiation 'SimpleVector<int>' being compiled
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\SimpleVector\SimpleVector.h(149,16): warning C4101: 'index': unreferenced local variable
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\SimpleVector\SimpleVector.h(144): message : while compiling class template member function 'T &SimpleVector<T>::operator [](const int &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\SimpleVector\Main.cpp(18): message : see reference to function template instantiation 'T &SimpleVector<T>::operator [](const int &)' being compiled
+          with
+          [
+              T=int
+          ]
+  SimpleVector.vcxproj -> C:\Users\akbar\OneDrive\Desktop\C++ Programs\SimpleVector\Debug\SimpleVector.exe

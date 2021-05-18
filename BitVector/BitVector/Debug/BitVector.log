@@ -1,0 +1,5 @@
+﻿  bitvector.cpp
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\BitVector\BitVector\bitvector.cpp(170,25): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  BitVector.vcxproj -> C:\Users\akbar\OneDrive\Desktop\C++ Programs\BitVector\Debug\BitVector.exe

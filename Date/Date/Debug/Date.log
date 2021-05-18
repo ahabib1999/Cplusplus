@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  date.cpp
+C:\Users\akbar\OneDrive\Desktop\C++ Programs\Date\Date\date.cpp(366,6): warning C4101: 'compare': unreferenced local variable
+  Generating Code...
+  Date.vcxproj -> C:\Users\akbar\OneDrive\Desktop\C++ Programs\Date\Debug\Date.exe
